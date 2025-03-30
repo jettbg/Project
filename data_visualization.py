@@ -14,7 +14,7 @@ mpf.plot(df,
          type='candle', 
          volume=True, 
          style='charles',
-         title='贵州茅台2024年K线图',
+         title='中芯国际K线图',
          ylabel='价格 (元)',
          ylabel_lower='成交量',
          mav=(5, 20),  # 添加MA5和MA20
